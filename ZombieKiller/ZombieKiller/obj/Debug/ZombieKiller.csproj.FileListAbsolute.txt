@@ -1,0 +1,15 @@
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\bin\Debug\ZombieKiller.exe.config
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\bin\Debug\ZombieKiller.exe
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\bin\Debug\ZombieKiller.pdb
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\bin\Debug\EZInput.dll
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\bin\Debug\EZInput.xml
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.csproj.AssemblyReference.cache
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.GameForm.resources
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.Properties.Resources.resources
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.csproj.GenerateResource.cache
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKi.237ECBC7.Up2Date
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.exe
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.pdb
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.EndForm.resources
+C:\Users\LENOVO\c#\ZombieKiller\ZombieKiller\obj\Debug\ZombieKiller.StartForm.resources
